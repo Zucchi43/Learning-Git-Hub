@@ -1,0 +1,8 @@
+Esse é um teste.
+Se tudo correu como planejado ,você está lendo este arquivo através do github
+Esse arquivo foi colocado no github através de git local
+
+
+
+
+
